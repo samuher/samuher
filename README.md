@@ -12,11 +12,10 @@
 ![samuher's Stats](https://github-readme-stats.vercel.app/api?username=samuher&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ### Skills:
+- 💻​: CSS
 
-Skills: CSS
-
-- 🔭 I’m currently working on my own project 
-- 🌱 I’m currently learning git and github 
+- 🔭: I’m currently working on my own project 
+- 🌱: I’m currently learning git and github 
 
 ### 🌐 Connect with me:
 
