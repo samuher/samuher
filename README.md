@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Samuel Herrero Banner" width="100%" />
+  <img src="banner.png" alt="Samuel Herrero Banner" width="75%" />
 </p>
 
 # Samuel Herrero
