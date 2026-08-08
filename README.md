@@ -38,7 +38,7 @@ I’m just starting my journey in the tech world. I’m passionate about explori
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuher&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="samuher's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuher&theme=dark&show_icons=true&hide_border=false&v=1" alt="samuher's Stats" />
 </p>
 
 ### 🌐 Connect with me:
