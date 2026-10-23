@@ -1,11 +1,3 @@
-<p align="center">
-  <img
-    src="banner.png"
-    alt="Samuel Herrero — software engineering profile banner"
-    width="100%"
-  />
-</p>
-
 <h1 align="center">Samuel Herrero</h1>
 
 <p align="center">
