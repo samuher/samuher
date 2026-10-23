@@ -1,57 +1,110 @@
 <p align="center">
-  <img src="banner.png" alt="Samuel Herrero Banner" width="100%" />
+  <img
+    src="banner.png"
+    alt="Samuel Herrero — software engineering profile banner"
+    width="100%"
+  />
 </p>
 
-<h1 align="center">Hi there, I'm Samuel Herrero 👋</h1>
-<h3 align="center">Software Engineering Student @ Universidad Complutense de Madrid</h3>
+<h1 align="center">Samuel Herrero</h1>
 
-<br>
-
-### 👨‍💻 About Me
-
-I'm just starting my journey in the tech world. I'm passionate about exploring how technology can solve real problems and help people.
-
-- 🔭 Currently working on **my personal portfolio and core development concepts**
-- 🌱 Currently focusing on mastering **Python, Git, and GitHub**, while exploring full-stack development, cybersecurity, and AI
-- 🎯 Goal: grow step by step, contribute to open-source projects, and build a strong foundation for a career in software engineering
-
-### 🛠️ Tech Stack & Skills
-
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
+<p align="center">
+  <strong>Software Engineering Student at Universidad Complutense de Madrid</strong>
+  <br />
+  <sub>Learning how software works by building it, versioning it, and understanding the systems around it.</sub>
 </p>
 
-### 🏆 Certifications
+---
 
-<p align="left">
-  <a href="https://freecodecamp.org/certification/s1000/python-v9" target="_blank">
-    <img src="Certificacion_Python.png" alt="freeCodeCamp Python Certification" width="400" />
+## About
+
+I'm a Software Engineering student focused on building a strong technical foundation before specialising too early.
+
+I learn best by turning concepts into practical projects, understanding how they work, and improving them over time. Right now, I'm strengthening my programming fundamentals, becoming more comfortable with Git and GitHub workflows, developing my personal portfolio, and exploring full-stack development, cybersecurity, and artificial intelligence.
+
+I care more about understanding technology properly than collecting technologies I cannot yet use confidently.
+
+## Current focus
+
+- Strengthening programming fundamentals and problem-solving skills.
+- Developing my personal portfolio and building meaningful projects.
+- Improving my Git and GitHub workflow.
+- Exploring full-stack development, cybersecurity, and artificial intelligence.
+- Preparing to contribute to open-source projects as my skills grow.
+
+## Technologies
+
+Technologies I'm currently learning and using:
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-20242B?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-20242B?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-20242B?style=flat-square&logo=openjdk&logoColor=white)
+
+### Web
+
+![CSS](https://img.shields.io/badge/CSS-20242B?style=flat-square&logo=css&logoColor=white)
+
+### Development workflow
+
+![Git](https://img.shields.io/badge/Git-20242B?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-20242B?style=flat-square&logo=github&logoColor=white)
+
+### Areas I'm exploring
+
+`Full-stack development` · `Cybersecurity` · `Artificial Intelligence`
+
+## Selected work
+
+### Personal portfolio
+
+**In development**
+
+I'm designing and developing my personal portfolio as a place to present future projects, document what I learn, and improve how I communicate technical work.
+
+More selected projects will appear here as they become ready to share.
+
+<!--
+PROJECT TEMPLATE
+
+Copy this block below "Selected work" whenever a project is ready.
+
+### Project Name
+
+One concise sentence explaining what the project does and why you built it.
+
+`Technology` · `Technology` · `Technology`
+
+[Repository](REPOSITORY_URL) · [Live demo](DEMO_URL)
+
+Do not include "Live demo" when the project does not have one.
+-->
+
+## Certification
+
+<p align="center">
+  <a href="https://freecodecamp.org/certification/s1000/python-v9">
+    <img
+      src="Certificacion_Python.png"
+      alt="Samuel Herrero freeCodeCamp Python certification"
+      width="520"
+    />
   </a>
 </p>
 
-- **Python Developer Certification** — [freeCodeCamp](https://freecodecamp.org/certification/s1000/python-v9) *(August 2026 · ~300 hours of coursework)*
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=samuher&theme=dark&show_icons=true&hide_border=false" alt="samuher's GitHub Stats" />
+<p align="center">
+  <strong>Python Developer Certification</strong>
+  <br />
+  <sub>freeCodeCamp · August 2026 · approximately 300 hours of coursework</sub>
 </p>
 
-### 🌐 Connect with Me
+## Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/samuel-herrero-213941360/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/samuher" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.youtube.com/channel/samu-y6c" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+<p>
+  <a href="https://github.com/samuher">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/samuel-herrero-213941360/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/channel/samu-y6c">YouTube</a>
 </p>
